@@ -1,5 +1,6 @@
-# TFG - Dissertation project
-## Influence of arithmetic precision in the study of two-dimensional isotropic turbulence
+# Influence of arithmetic precision in the study of two-dimensional isotropic turbulence
+## TFG - Dissertation project
+
 The following files are part of the research conducted for my Aerospace Engineering Dissertation Project. 
 
 This study was focused on spectral method analysis and the 4th order Runge-Kutta integral time scheme, for Direct Numerical Simulation of two-dimensional isotropic turbulent flows.
